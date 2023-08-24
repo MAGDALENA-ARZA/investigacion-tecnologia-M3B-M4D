@@ -15,7 +15,7 @@ Cada grupo de proyecto debe seleccionar una de las tecnologías o prácticas del
 
 - Todas las fuentes de información deben estar referenciadas.
 - Se debe coordinar con los docentes una fecha para realizar la presentación en clase (20 minutos).
-- Se creará un repositorio en GitHub para que cada grupo suba la ficha técnica en formato Markdown (2 páginas). 
+- Se creará un repositorio en [GitHub](http://github.com) para que cada grupo suba la ficha técnica en formato Markdown (2 páginas). 
 
 ## Formato
 
@@ -23,4 +23,4 @@ Cada grupo de proyecto debe seleccionar una de las tecnologías o prácticas del
 - Se debe subir en un directorio con el nombre de la tecnología o práctica de ingeniería de sofware seleccionada. 
 - Incluir en el directorio un archivo README.md con el nombre completo y número de estudiante de lo integrantes del grupo.
 
->[Guía de Markdown](https://www.markdownguide.org)
+> [Guía de Markdown](https://www.markdownguide.org)
